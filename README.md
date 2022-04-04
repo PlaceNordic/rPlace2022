@@ -33,7 +33,7 @@ python -m pip install --force git+https://github.com/PlaceNordic/rPlace2022.git
 
 Go install python 3.10 via the app-store.
 
-Run the command in your terminal:
+Paste the following command in your terminal:
 
 ```bash
 python -m pip install --force git+https://github.com/PlaceNordic/rPlace2022.git
@@ -43,21 +43,13 @@ python -m pip install --force git+https://github.com/PlaceNordic/rPlace2022.git
 
 Go install python 3.10 via your package manager.
 
-Run the command in your terminal:
+Paste the following command in your terminal:
 
 ```bash
 pip install --force git+https://github.com/PlaceNordic/rPlace2022.git
 ```
 
 If you have an older version of Python already installed (or if it gives you errors), try using pip3 instead.
-
-## Docker image
-
-For people experienced with Docker, there's also a docker image you can run:
-
-```bash
-docker run -t --pull=always --restart unless-stopped ghcr.io/placenl/placenl-python -u 'USERNAME' 'PASSWORD'
-```
 
 ## Usage
 
