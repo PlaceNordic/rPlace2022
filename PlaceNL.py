@@ -58,7 +58,7 @@ REDDIT_LOGIN_POST = "https://www.reddit.com/login"
 REDDIT_PLACE_URL = "https://www.reddit.com/r/place/"
 REDDIT_PLACE_SET_PIXEL_URL = "https://gql-realtime-2.reddit.com/query"
 PLACE_WEBSOCKET = "wss://gql-realtime-2.reddit.com/query"
-BACKEND_DOMAIN = "place.ln.gy/"
+BACKEND_DOMAIN = "place.ln.gy"
 CNC_WEBSOCKET = f"wss://{BACKEND_DOMAIN}/api/ws"
 BACKEND_MAPS_URL = f"https://{BACKEND_DOMAIN}/maps"
 
