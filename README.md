@@ -63,3 +63,15 @@ To specify the path to the config file, add the `--from-config` flag (shorthand:
 ```bash
 PlaceNL --from-config config.toml
 ```
+
+Here's an example on how it could look:
+
+```toml
+[[users]]
+username = "USERNAME1"
+password = "PASSWORD1"
+
+[[users]]
+username = "USERNAME2"
+password = "PASSWORD2"
+```
