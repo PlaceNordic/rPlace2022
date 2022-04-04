@@ -19,7 +19,7 @@ First you need to install Python to run the script.
 
 ### Windows
 
-Go install Python 3.10 on this link: https://www.python.org/downloads/windows/
+Go install Python 3.10 from this link: https://www.python.org/downloads/windows/
 
 Create a folder (wherever you want) and right-click "Open in Command Prompt":
 
